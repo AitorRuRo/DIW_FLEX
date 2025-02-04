@@ -149,6 +149,9 @@ ul{
 .w49{
     width: 50%;
 }
+.w100{
+    width: 100%;
+}
 .w100 li{
     width: 20%;
 }
@@ -164,4 +167,11 @@ ul{
 }
 .polos_iguales{
     justify-content: space-between;
+}
+
+.dos_Siete div{
+    height: calc(25%-5px);
+}
+.dos_Siete div.nueve{
+    height: 100%;
 }
